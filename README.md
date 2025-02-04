@@ -2,12 +2,13 @@
 ![IMG_9355](https://github.com/user-attachments/assets/698acc7d-08b1-4e9e-b490-1587123d1897)
 
 
+_In a love of great live debater, writer and a man: Christofer Hitchens_
+
+
 ![image](https://github.com/user-attachments/assets/cfefced3-c872-4033-9f3c-d84a139e60fe)
 picture cretits https://provokinghitchens.com/2015/08/23/conversation-with-hitchens-photographer/
 
 ## Hitchens for the register
-
-_In a love of great live debater, writer and a man: Christofer Hitchens_
 
 ### Navigating Global Regulations and Open Source: US OFAC Sanctions – A Modern Farce?
 
