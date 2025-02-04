@@ -7,7 +7,7 @@ picture cretits https://provokinghitchens.com/2015/08/23/conversation-with-hitch
 
 ## Hitchens for the register
 
-_In a love of great writer and man: Christofe Hitchens_
+_In a love of great live debater, writer and a man: Christofer Hitchens_
 
 ### Navigating Global Regulations and Open Source: US OFAC Sanctions – A Modern Farce?
 
