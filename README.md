@@ -1,15 +1,9 @@
-# 
-![IMG_9355](https://github.com/user-attachments/assets/698acc7d-08b1-4e9e-b490-1587123d1897)
+# Christofer Hitchens: man and gas turbine destroyer! 
 
-
+My creative project: 
 _In a love of great live debater, writer and a man: Christofer Hitchens_
 
-
-![image](https://github.com/user-attachments/assets/cfefced3-c872-4033-9f3c-d84a139e60fe)
-
-Picture credits https://provokinghitchens.com/2015/08/23/conversation-with-hitchens-photographer/
-
-## Hitchens for the register
+## Hitchens for theregister
 
 ### Navigating Global Regulations and Open Source: US OFAC Sanctions – A Modern Farce?
 
@@ -59,7 +53,7 @@ vulnerability in an open-source project could technically be considered a crime.
 
 The Linux Foundation, much like the editorial board of a bygone Playboy era reveling in the publication of a Ray Bradbury short story, now finds itself enmeshed in a dystopian tangle of regulatory overreach. If ever there was a modern take on Fahrenheit 451—where instead of books, open-source contributions are at risk of being extinguished—this might just be it.
 
-_Open-source software, long a refuge for digital libertines and pioneers alike, is now being policed not by its own principles, but by international sanctions devised in smoke-filled backrooms where diplomacy and paranoia intertwine like lovers in a dimly lit lounge._
+~~Open-source software, long a refuge for digital libertines and pioneers alike, is now being policed not by its own principles, but by international sanctions devised in smoke-filled backrooms where diplomacy and paranoia intertwine like lovers in a dimly lit lounge.~~[too cheesy] 
 
 What was once an unrestricted creative forum, much like the golden age of Playboy's editorial pages, is now forced into a game of compliance strip poker, where the house—played by the US Treasury's Office of Foreign Assets Control (OFAC)—always wins.
 
