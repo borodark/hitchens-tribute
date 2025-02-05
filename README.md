@@ -69,7 +69,7 @@ Enter OFAC, wielding its sanctions like a self-righteous censor armed with a red
 
 _Their Specially Designated Nationals (SDN) List reads like a rogue’s gallery of forbidden collaborators, and much like the old book-burning squads in Bradbury’s worlds, they take their task a little too seriously._
 
-Developers, those modern scribes of the machine age, must now consult lists and legal memos before daring to accept a pull request, lest they find themselves running afoul of rules so outdated they might as well be engraved on stone tablets. 
+_Developers, those modern scribes of the machine age, must now consult lists and legal memos before daring to accept a pull request, lest they find themselves running afoul of rules so outdated they might as well be engraved on stone tablets._ 
 
 _If only Playboy's editors had to check with international regulators before running a provocative piece of fiction; we might never have gotten Bradbury’s The Fireman, later expanded into Fahrenheit 451—a grim prophecy of a future in which state-sanctioned controls on information stifle thought itself._
 
