@@ -1,7 +1,9 @@
 # Christofer Hitchens: man and gas turbine destroyer! 
 
-My creative project: 
-_In a love of great live debater, writer and a man: Christofer Hitchens_
+_In a love of great live debater, writer and a man: Christopher Hitchens_
+
+My exersises in creative counterfactuals: _What would Christopher Hitchens do?_
+
 
 ## Hitchens for theregister
 
