@@ -45,7 +45,7 @@ It is, ultimately, a bleak commentary on the state of global cooperation: that t
 Until then, developers are advised to tread carefully, lest they find themselves on the wrong side of a compliance officer’s clipboard. And if you ever wondered what true absurdity looks like, simply remember: in the 21st century, fixing a vulnerability in an open-source project could technically be considered a crime. Orwell would be proud.
 
 
-## Hitchens for Play Boy mentions of Ray Bradbery
+## Hitchens for Play Boy mentions of Ray Bradbury
 
 ### Navigating Global Regulations and Open Source: US OFAC Sanctions – Bureaucratic Censorship in the Digital Age
 
